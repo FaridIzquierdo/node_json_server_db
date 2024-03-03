@@ -1,0 +1,63 @@
+{
+  "teachers": [
+    {
+      "name": "Sergie",
+      "lastname": "Code",
+      "courses": [
+        {
+          "name": "Node JS"
+        },
+        {
+          "name": "Angular"
+        },
+        {
+          "name": "React"
+        }
+      ],
+      "id": "8554"
+    }
+  ],
+  "students": [
+    {
+      "name": "Sofia",
+      "lastname": "Monago",
+      "average": 20,
+      "id": "bdc4"
+    },
+    {
+      "name": "Pedro",
+      "lastname": "Lazaro",
+      "average": 20,
+      "id": "40ca"
+    },
+    {
+      "id": "d1f0"
+    },
+    {
+      "id": "5b6a",
+      "name": "Farid",
+      "lastname": "Izquierdo",
+      "average": 20
+    }
+  ],
+  "courses": [
+    {
+      "name": "Node JS",
+      "duration": 8,
+      "difficulty": "Intermediate",
+      "id": "a2e4"
+    },
+    {
+      "name": "React",
+      "duration": 10,
+      "difficulty": "Advanced",
+      "id": "9eb3"
+    },
+    {
+      "name": "Python",
+      "duration": 6,
+      "difficulty": "Beginner",
+      "id": "2518"
+    }
+  ]
+}
